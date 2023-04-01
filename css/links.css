@@ -56,6 +56,10 @@ footer {
 	text-align: center;
 }
 
+.hoverno {
+	pointer-events: none;
+}
+
 #info h2 {
 	font-size: 1em;
 	text-align: center;
