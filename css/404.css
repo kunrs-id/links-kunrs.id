@@ -18,10 +18,6 @@ div{
   animation: glitch 1s linear infinite;
 }
 
-p {
-  color: #65BC72;
-  font-size: 24px;
-}
 
 @keyframes glitch{
   2%,64%{
