@@ -19,7 +19,8 @@ div{
 }
 
 p {
-  color: navy;
+  color: #65BC72;
+  font-size: 11px;
 }
 
 @keyframes glitch{
